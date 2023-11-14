@@ -22,11 +22,13 @@ I employed the VideoLlama model's [Hugging Face interface](https://huggingface.c
 
 
 
-Feel free to reach out if you have any questions or suggestions!
-- 📧 Email: hasnatabdullah79@gmail.com
-- 💼 LinkedIn: [Hasnat Md Abdullah ](https://www.linkedin.com/in/hasnat-md-abdullah/)
+
 
 ## Citation
 If you use the experiment results from this repository in your work, please consider citing this project. Thank you <3
 
+## Contact
+Feel free to reach out if you have any questions or suggestions!
+- 📧 Email: hasnatabdullah79@gmail.com
+- 💼 LinkedIn: [Hasnat Md Abdullah ](https://www.linkedin.com/in/hasnat-md-abdullah/)
 Happy experimenting! 🚀
