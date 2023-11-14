@@ -10,7 +10,7 @@ Preliminary Explorations with GPT-4V(ision)](https://arxiv.org/pdf/2309.17421.pd
 
 ## Dataset - OOPS
 
-The dataset used in this project is OOPS ([oops! Predicting Unintentional Action in Video](https://arxiv.org/pdf/1911.11206.pdf)). Specifically, I filtered out videos from the OOPS dataset that depict failed actions.
+The dataset used in this project is OOPS ([oops! Predicting Unintentional Action in Video](https://arxiv.org/pdf/1911.11206.pdf)). Specifically, I [filtered out](https://github.com/Hasnat79/Oops_extractor) videos from the OOPS dataset that depict failed actions. 
 
 ## Experiment Results
 
